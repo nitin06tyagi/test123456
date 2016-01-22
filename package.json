@@ -1,0 +1,19 @@
+{
+  "name": "betaout",
+  "version": "1.0.0",
+  "description": "jal.min.js npm module",
+  "main": "jal.js",
+  "scripts": {
+    "test": "jaltest"
+  },
+  "author": "Nitin tyagi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin06tyagi/test123456.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nitin06tyagi/test123456/issues"
+  },
+  "homepage": "https://github.com/nitin06tyagi/test123456#readme"
+}
